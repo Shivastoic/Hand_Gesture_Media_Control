@@ -1,6 +1,3 @@
-Sure, here's a GitHub README for your project:
-
----
 
 # Hand Gesture Control for Media Player
 
